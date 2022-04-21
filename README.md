@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos Hernandez
+Hey 👋 My name is Carlos Hernandez
 =================================
 
 Software Engineer
