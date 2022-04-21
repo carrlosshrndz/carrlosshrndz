@@ -1,10 +1,10 @@
-Hey 👋 My name is Carlos Hernandez
+Hello 👋 My name is Carlos Hernandez
 =================================
 
 Software Engineer
 -----------------
 
-Computer Science Major @ CSUCI I have 2 years of self-taught programming skills that I achieved through personal projects & learning through online resources. I started with HTML/CSS working on my personal website.
+Computer Science Major @ CSUCI I have 2 years of self-taught programming skills that I achieved through online resource & building personal projects. I started with HTML/CSS to on my personal website.
 
 * 🌍  I'm based in Los Angeles, CA
 * ✉️  You can contact me at [carrlosshrndz@gmail.com](mailto:carrlosshrndz@gmail.com)
